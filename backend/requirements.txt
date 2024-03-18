@@ -1,0 +1,11 @@
+flask
+flask_cors
+flask_login
+flask_sqlalchemy
+yfinance
+twilio
+python-dotenv
+requests
+tensorflow
+sklearn
+matplotlib
